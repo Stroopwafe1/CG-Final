@@ -1,0 +1,7 @@
+**/Debug/**
+**/Release/**
+.vs/
+.idea/
+cmake-build-debug/
+main
+CG - Final Assignment - Evaluation Form.xlsx
